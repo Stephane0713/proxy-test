@@ -1,0 +1,12 @@
+[
+  { "fk_product_price": "2", "label": "Line 02" },
+  { "fk_product_price": "3", "label": "Line 03" },
+  { "fk_product_price": "5", "label": "Line 05" },
+  { "fk_product_price": "6", "label": "Line 06" },
+  { "fk_product_price": "7", "label": "Line 07" },
+  { "fk_product_price": "8", "label": "Line 08" },
+  { "fk_product_price": "10", "label": "Line 10" },
+  { "fk_product_price": "11", "label": "Line 11" },
+  { "fk_product_price": "12", "label": "Line 12" },
+  { "fk_product_price": "15", "label": "Line 15" }
+]
